@@ -12,7 +12,7 @@ Download the model files:
 """
 
 # Paths to load the model
-DIR = r"C:\Users\user\Desktop\RBMP"
+DIR = r"C:\Users\user\Desktop\New Folder"
 PROTOTXT = os.path.join( DIR,r"Colorizing-black-and-white-images-using-Python\colorization_deploy_v2.prototxt")
 POINTS = os.path.join( DIR,r"Colorizing-black-and-white-images-using-Python\pts_in_hull.npy")
 MODEL = os.path.join(DIR, r"Colorizing-black-and-white-images-using-Python\colorization_release_v2.caffemodel")
